@@ -1,4 +1,4 @@
-#Loan Approval Predictor
+## Loan Approval Predictor
 
 A machine learning-powered project that automates the loan eligibility process in real-time based on customer data submitted through online application forms. By leveraging classification algorithms, this model predicts whether a customer's loan should be approved or not.
 
